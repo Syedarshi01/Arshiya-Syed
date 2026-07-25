@@ -1,2 +1,2 @@
-Python Basics
-Learning from Basics to buid a project
+Python 
+Machine Learning from Basics to buid a project
